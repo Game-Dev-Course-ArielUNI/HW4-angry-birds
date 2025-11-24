@@ -11,6 +11,7 @@ destroy:
 public class DestoryBirds : MonoBehaviour
 
 {
+
     private void OnCollisionEnter2D(Collision2D collision)
     
     {
@@ -24,6 +25,7 @@ public class DestoryBirds : MonoBehaviour
             
         }
     }
+    ---
 
     as you can see when the bird is hit and collapse at the ground(which has ) it go to the next level.
 
