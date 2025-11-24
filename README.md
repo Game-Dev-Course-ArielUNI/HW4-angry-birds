@@ -6,6 +6,8 @@ its made just from 3 scripts:
 
 throw ball:responsible of throwing the bird by using onmouseUp\onmouseDown which gives you the possibility to drag the bird and throw it to the other side
 
+ ScenceController:it just swich scenes
+
 destroy: 
 
 public class DestoryBirds : MonoBehaviour
@@ -27,6 +29,6 @@ public class DestoryBirds : MonoBehaviour
     }
     ---
 
-    as you can see when the bird is hit and collapse at the ground(which has ) it go to the next level.
+    as you can see when the bird is hit and collapse at the ground(which has edge collider ) it go to the next level.
 
-    ScenceController:it just swich scenes
+   
