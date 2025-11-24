@@ -1,5 +1,7 @@
 # HW4-angry-birds
 
+to play the game:https://yousef-masarwa97.itch.io/angry-birds
+
 tis is a small game of angry birds made of two levels,which mean you must throw the ball(yellow bird) towards the other birds trying to smash them.
 
 its made just from 3 scripts:
